@@ -1,6 +1,6 @@
 # Challenge ONE | Programming Logic - Text Encryptor
 
-Link page **[Click here](https://karencardiel.github.io/encryptor-text/)**
+Link page **[Click here](https://karencardiel.github.io/text-encryptor/)**
 
 ### Preview
 
