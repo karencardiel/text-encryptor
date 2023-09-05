@@ -2,5 +2,5 @@
 
 Link page **[Click here](
 
-![GIF]()
+![GIF](https://github.com/karencardiel/encryptor-text/blob/main/imagenes/ss.gif)
 
