@@ -22,7 +22,7 @@ During the execution of this code, several JavaScript methods were used. Here ar
 
  ## 🔹Requirements
 
-The encryption "keys" that were used are as follows
+The encryption "keys" that were used are as follows:
 
 The letter "e" is converted to "enter" <br>
 The letter "i" is converted to "imes" <br>
