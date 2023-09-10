@@ -40,7 +40,7 @@ It should be possible to convert a word to its encrypted version and also return
  
  **[Click here to visit the website](https://karencardiel.github.io/text-encryptor/)**
 
-<img src = "https://github.com/karencardiel/text-encryptor/blob/main/imagenes/ss.gif" width = "600">
+<img src = "https://github.com/karencardiel/text-encryptor/blob/main/imagenes/ss.gif" width = "550">
 
 
 
