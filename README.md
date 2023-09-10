@@ -1,4 +1,4 @@
- # 🔵Challenge ONE | Lógica de Programación - Encriptador de texto
+ # 🔵Lógica de Programación - Encriptador de texto
 This is a solution to the Encrypted Message Challenge. In this challenge, I aim to showcase the skills acquired through the Oracle | ONE program provided by ALURA LATAM.
 <br><br>
 **Part I**: HTML and CSS 
