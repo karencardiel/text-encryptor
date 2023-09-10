@@ -1,4 +1,4 @@
-# Challenge ONE | Lógica de Programación - Encriptador de texto
+ # 🔵Challenge ONE | Lógica de Programación - Encriptador de texto
 This is a solution to the Encrypted Message Challenge. In this challenge, I aim to showcase the skills acquired through the Oracle | ONE program provided by ALURA LATAM.
 <br><br>
 **Part I**: HTML and CSS 
@@ -11,7 +11,7 @@ During the execution of this code, several JavaScript methods were used. Here ar
   [toLowerCase()](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/String/toLowerCase) |
   [navigator.clipboard](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Interact_with_the_clipboard) 
  
-   ## Main Page Elements
+   ## 🔹Main Page Elements
 
 - Website title
 - Text field for encryption/decryption
@@ -20,7 +20,7 @@ During the execution of this code, several JavaScript methods were used. Here ar
 - Area to display encrypted/decrypted text
 - Copy button
 
- ## Requirements
+ ## 🔹Requirements
 
 The encryption "keys" we will use are as follows:
 
@@ -36,7 +36,7 @@ It should be possible to convert a word to its encrypted version and also return
 
 
 
-## Preview
+## 🔹Preview
  
  **[Click here to visit the website](https://karencardiel.github.io/text-encryptor/)**
 
