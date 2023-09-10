@@ -40,7 +40,7 @@ It should be possible to convert a word to its encrypted version and also return
  
  **[Click here to visit the website](https://karencardiel.github.io/text-encryptor/)**
 
- <img src = "https://github.com/karencardiel/text-encryptor/assets/129384547/71169fbc-c32b-437a-ae4c-7eb7a8df18c6" width = "400">  <img src = "https://github.com/karencardiel/text-encryptor/assets/129384547/3e7bfabf-0f75-49ce-896a-a772149baa1c" width = "200">  <img src = "https://github.com/karencardiel/text-encryptor/assets/129384547/8c9e7af4-f82a-4d44-8a74-cb88ea6e0f7f" width = "170">
+ <img src = "https://github.com/karencardiel/text-encryptor/assets/129384547/71169fbc-c32b-437a-ae4c-7eb7a8df18c6" width = "410">  <img src = "https://github.com/karencardiel/text-encryptor/assets/129384547/3e7bfabf-0f75-49ce-896a-a772149baa1c" width = "210">  <img src = "https://github.com/karencardiel/text-encryptor/assets/129384547/8c9e7af4-f82a-4d44-8a74-cb88ea6e0f7f" width = "180">
 
 
 
