@@ -1,20 +1,46 @@
 # Challenge ONE | Lógica de Programación - Encriptador de texto
-
- **[Click here to visit the website](https://karencardiel.github.io/text-encryptor/)**
+This is a solution to the Encrypted Message Challenge. In this challenge, I aim to showcase the skills acquired through the Oracle | ONE program provided by ALURA LATAM.
 <br><br>
-
-<img src = "https://github.com/karencardiel/text-encryptor/assets/129384547/f901ff3b-3946-4e50-b684-e7a8a789d26f" width = "155"> <img src = "https://github.com/karencardiel/text-encryptor/assets/129384547/4b318668-052c-4b3f-9e76-597cb7511b34" width = "550"> <img src = "https://github.com/karencardiel/text-encryptor/assets/129384547/94a44d91-e31f-4c14-90ec-c1faf487a681" width = "250"> 
-
-##  Description 
-
-**Parte I**: HTML y CSS 
+**Part I**: HTML and CSS 
 <br>
-**Parte II**: Lógica con Javascript 
+**Part II**: Javascript 
 <br>
 <br>
-Durante la ejecución de nuestro código, se utilizaron varios métodos en JavaScript, dejamos aquí algunos de ellos para facilitar sus búsquedas en el proceso de estudio
+During the execution of this code, several JavaScript methods were used. Here are some of them to facilitate your search in the study process.
   [getElementById()](https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById) |
   [toLowerCase()](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/String/toLowerCase) |
   [navigator.clipboard](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Interact_with_the_clipboard) 
+ 
+   ## Main Page Elements
 
-  
+- Website title
+- Text field for encryption/decryption
+- Encrypt button
+- Decrypt button
+- Area to display encrypted/decrypted text
+- Copy button
+
+ ## Requirements
+
+The encryption "keys" we will use are as follows:
+
+The letter "e" is converted to "enter" <br>
+The letter "i" is converted to "imes" <br>
+The letter "a" is converted to "ai" <br>
+The letter "o" is converted to "ober" <br>
+The letter "u" is converted to "ufat" <br>
+
+It should only work with lowercase letters.
+Letters with accents or special characters should not be used.
+It should be possible to convert a word to its encrypted version and also return an encrypted word to its original version.
+
+
+
+## Preview
+ 
+ **[Click here to visit the website](https://karencardiel.github.io/text-encryptor/)**
+
+<img src = "https://github.com/karencardiel/text-encryptor/assets/129384547/f901ff3b-3946-4e50-b684-e7a8a789d26f" width = "155"> <img src = "https://github.com/karencardiel/text-encryptor/assets/129384547/4b318668-052c-4b3f-9e76-597cb7511b34" width = "550"> <img src = "https://github.com/karencardiel/text-encryptor/assets/129384547/94a44d91-e31f-4c14-90ec-c1faf487a681" width = "250"> 
+
+
+
