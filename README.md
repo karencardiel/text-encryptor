@@ -6,7 +6,7 @@ This is a solution to the Encrypted Message Challenge. In this challenge, I aim 
 **Part II**: Javascript 
 <br>
 <br>
-During the execution of this code, several JavaScript methods were used. Here are some of them to facilitate your search in the study process.
+During the execution of this code, several JavaScript methods were used. Here are some of them to facilitate your search in the study process
   [getElementById()](https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById) |
   [toLowerCase()](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/String/toLowerCase) |
   [navigator.clipboard](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Interact_with_the_clipboard) 
