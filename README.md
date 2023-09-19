@@ -11,7 +11,7 @@ During the execution of this code, several JavaScript methods were used. Here ar
   [toLowerCase()](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/String/toLowerCase) |
   [navigator.clipboard](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Interact_with_the_clipboard) 
  
-   ## 🔹Main Page Elements
+ ## 🔹Main Page Elements
 
 - Website title
 - Text field for encryption/decryption
@@ -20,7 +20,7 @@ During the execution of this code, several JavaScript methods were used. Here ar
 - Area to display encrypted/decrypted text
 - Copy button
 
- ## 🔹Requirements
+## 🔹Requirements
 
 The encryption "keys" that were used are as follows:
 
@@ -35,12 +35,11 @@ Letters with accents or special characters should not be used.
 It should be possible to convert a word to its encrypted version and also return an encrypted word to its original version.
 
 
-
 ## 🔹Preview
  
  **[Click here to visit the website](https://karencardiel.github.io/text-encryptor/)**
 
- <img src = "https://github.com/karencardiel/text-encryptor/assets/129384547/71169fbc-c32b-437a-ae4c-7eb7a8df18c6" width = "410">  <img src = "https://github.com/karencardiel/text-encryptor/assets/129384547/3e7bfabf-0f75-49ce-896a-a772149baa1c" width = "210">  <img src = "https://github.com/karencardiel/text-encryptor/assets/129384547/8c9e7af4-f82a-4d44-8a74-cb88ea6e0f7f" width = "180">
+ <img src = "https://github.com/karencardiel/text-encryptor/assets/129384547/49169adf-17a5-4318-8648-8f6f6eaeeabf" width = "410">  <img src = "https://github.com/karencardiel/text-encryptor/assets/129384547/3e7bfabf-0f75-49ce-896a-a772149baa1c" width = "210">  <img src = "https://github.com/karencardiel/text-encryptor/assets/129384547/8c9e7af4-f82a-4d44-8a74-cb88ea6e0f7f" width = "180">
 
 
 
